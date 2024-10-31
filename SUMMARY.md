@@ -11,6 +11,7 @@
 ***
 
 * [Other](other.md)
+* [Links](links.md)
 * [Team](team.md)
 
 ## Basics
