@@ -4,9 +4,10 @@
 
 ## Overview
 
-* [Our Vision](overview/our-vision.md)
 * [Challenge](overview/challenge.md)
 * [Problem](overview/quickstart.md)
+* [Our Vision](overview/our-vision.md)
+* [Tech Stack](overview/tech-stack.md)
 
 ***
 
