@@ -15,3 +15,7 @@
 * [Page 1](other/page-1.md)
 * [Links](other/links.md)
 * [Team](other/team.md)
+
+## Other
+
+* [Contact](other-1/contact.md)
